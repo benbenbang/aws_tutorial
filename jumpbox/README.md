@@ -5,17 +5,17 @@
 **To set up**, we will need:
 
 - [ ] ​VPC * 1
-- [ ] Subnets:
-      - [ ] Public subnet * 1
-      - [ ] Private subnet * 1
-- [ ] Route Table:
-      - [ ] Public Route Table * 1
-      - [ ] Private Route Table * 1
+- Subnets:  
+- [ ] Public subnet * 1  
+- [ ] Private subnet * 1
+- Route Table:  
+- [ ] Public Route Table * 1  
+- [ ] Private Route Table * 1  
 - [ ] Internet Gateway * 1
 - [ ] Security Group * 2
-- [ ] EC2 Instances:
-      - [ ] (Public) EC2 in public subnet
-      - [ ] (Private) EC2 in private subnet
+- EC2 Instances:  
+- [ ] (Public) EC2 in public subnet  
+- [ ] (Private) EC2 in private subnet  
 
 ## Step 1. Setting VPC
 
